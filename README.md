@@ -168,7 +168,7 @@ cv2.destroyAllWindows()
 
 <div align="center">
 
-![Imagen con los píxeles máss claro y oscuro](images/)
+![Imagen con los píxeles más claro y oscuro](images/most_dark_and_light_pixel_img.gif)
 
 </div>
 
@@ -211,7 +211,7 @@ cv2.destroyAllWindows()
 
 <div align="center">
 
-![Imagen con GaussianBlur](images/)
+![Imagen con GaussianBlur](images/most_dark_and_light_pixel_gaussian_img.gif)
 
 </div>
 
@@ -275,7 +275,7 @@ cv2.destroyAllWindows()
 
 <div align="center">
 
-![Salida Art Pop inspirada en Lichtenstein](images/)
+![Salida Art Pop inspirada en Lichtenstein](images/lichtenstein_img.png)
 
 </div>
 
